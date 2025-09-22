@@ -1,2 +1,3 @@
-# Kaserne9
-Used for database management
+# Hello-world
+This is my first repository.
+I am looking forward to learning more.
